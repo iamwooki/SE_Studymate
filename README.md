@@ -6,7 +6,7 @@
 - Studymate is help to manage your schedule and study words
 
 
->contributer
+>contributors
 
 
 * Young, Ha
